@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on machine learning projects.
 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Baumwollboebele?style=social">
+[![Baumwollboebele's GitHub stats](https://github-readme-stats.vercel.app/api?username=baumwollboebele)](https://github.com/anuraghazra/github-readme-stats)
