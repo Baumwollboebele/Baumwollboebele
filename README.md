@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Baumwollboebele
-- 👀 I’m interested in solving advanced machine learning problems,coding and climbing.
-- 🌱 I’m currently doing my Masters degree in Computer Science.
-- 💞️ I’m looking to collaborate on machine learning projects.
+# Hello
 
+I'm a student man_student at the university of applied science in Weingarten (Germany) and I study computer science.
 
-[![Baumwollboebele's GitHub stats](https://github-readme-stats.vercel.app/api?username=baumwollboebele&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baumwollboebele&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
