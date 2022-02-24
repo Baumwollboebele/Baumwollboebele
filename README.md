@@ -25,7 +25,6 @@ In recent years I have gained a lot of knowledge in various programming language
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="html" style="vertical-align:top; margin:4px">   
   <p/>
 
