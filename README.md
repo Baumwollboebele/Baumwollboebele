@@ -12,10 +12,12 @@ In recent years I have gained a lot of knowledge in various programming language
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -23,26 +25,8 @@ In recent years I have gained a lot of knowledge in various programming language
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
-    <img src="" alt="html" style="vertical-align:top; margin:4px">
-    
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="html" style="vertical-align:top; margin:4px">   
   <p/>
 
-![C]()
-![Shell Script]()
-![Keras]()
-![TensorFlow]()
-![Pandas]()
-![NumPy]()
-![scikit-learn]()
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ROS]()
-![Linux]()
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
