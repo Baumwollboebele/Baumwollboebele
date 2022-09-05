@@ -26,5 +26,6 @@ In recent years I have gained a lot of knowledge in various programming language
   <p/>
 
 <hr>
+<p align="center">
 <img src="https://www.codewars.com/users/Baumwollboebele/badges/large" alt="Codewars Badge">
-
+<p/>
