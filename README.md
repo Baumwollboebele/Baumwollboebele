@@ -29,4 +29,3 @@ In recent years I have gained a lot of knowledge in various programming language
 <p align="center">
 <img src="https://www.codewars.com/users/Baumwollboebele/badges/large" alt="Codewars Badge">
 <p/>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=baumwollboebele.visitor-badge)
