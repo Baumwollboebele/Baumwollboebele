@@ -25,9 +25,6 @@ In recent years I have gained a lot of knowledge in various programming language
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
   <p/>
 
+<hr/>
 <p align="center">
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=baumwollboebele&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <hr/>
- <p/>
+<p/>
