@@ -27,6 +27,6 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <hr/>
 <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baumwollboebele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baumwollboebele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p/>
