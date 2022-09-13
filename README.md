@@ -27,8 +27,7 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <p align="center">
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=baumwollboebele&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <hr/>
  <p/>
