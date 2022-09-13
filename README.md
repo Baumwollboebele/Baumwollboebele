@@ -27,7 +27,7 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <hr/>
 
-   <p alignment="center">
-    <img src="https://www.codewars.com/users/Baumwollboebele/badges/small">
-    <p/>
+   <p align="center">
+    <img src="https://www.codewars.com/users/Baumwollboebele/badges/large">
+   <p/>
 
